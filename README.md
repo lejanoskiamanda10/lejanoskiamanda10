@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lejanoskiamanda10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Amanda lejanoski
+- 👀 I’m attending high school
+- 🌱 I´m 15 years old 
+- 💞️ I’m looking to collaborate with Github
 - 📫 how to find me:
 - Instagram https://instagram.com/amandalejanoski?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D
 - Gmail amanda.lejanoski.luz@escola.pr.gov.br
